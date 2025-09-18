@@ -135,7 +135,7 @@ exports.getTrendingContent = functions.https.onCall(async (data, context) => {
 1. **Clone the repository**
    ```bash
    git clone https://github.com/santhosind/Flutter-Test.git
-   cd Flutter-Test
+   cd Flutter-Test/flutter-firebase-tv-app
    ```
 
 2. **Install dependencies**
